@@ -1,0 +1,8 @@
+.container-buttons div button{
+ min-width: 175px;
+ height: 50px;
+ 
+}
+.container-buttons{
+    border: 2px solid black;
+}
